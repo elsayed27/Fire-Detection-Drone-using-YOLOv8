@@ -1,8 +1,8 @@
-# Chapter 5 — Machine Learning Algorithms for Fire Detection
+ Machine Learning Algorithms for Fire Detection
 
 > **Project:** Machine Learning Technique for Enhanced Situational Awareness With Fire Fighter Drones  
 > **Institution:** Faculty of Artificial Intelligence, Kafr El-Sheikh University  
-> **Academic Year:** 2023 – 2024  
+> **Academic Year:** 2026
 > **Supervisor:** Dr. Zeinab Hassan Ali Hassan
 
 ---
@@ -297,4 +297,6 @@ Chapter 5 establishes the complete perception backbone of the firefighting drone
 
 ---
 
-> *Graduation Project — Faculty of Artificial Intelligence, Kafr El-Sheikh University, 2023–2024*
+> *Graduation Project — Faculty of Artificial Intelligence, Kafr El-Sheikh University, 2026*
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 20, 2026, 09_01_48 AM" src="https://github.com/user-attachments/assets/51c47edd-65ff-4bb0-ae94-ab165e6756c2" />
